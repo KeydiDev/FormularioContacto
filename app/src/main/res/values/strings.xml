@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FormularioContacto</string>
+    <string name="nombre">Fulano</string>
+    <string name="telefono">12345678</string>
+    <string name="email">fulano@gmail.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptel">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+    <string name="pdate">fecha</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="nombre_completo">nombre completo</string>
+    <string name="descripcion">descripcion</string>
+    <string name="telefono_hint">telefono</string>
+    <string name="email_hint">email</string>
+    <string name="date">date</string>
+    <string name="report_planned_date">date</string>
+</resources>
